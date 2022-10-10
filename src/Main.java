@@ -42,7 +42,6 @@ public class Main {
             {
                 normalMode = true;
                 System.out.println("Ограничения отключены");
-                continue;
             }
             else System.out.println(Calc(uInput));
         }
